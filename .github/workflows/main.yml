@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: ftb://31.220.106.209
+        server: ftp://mohegy.com
         username: u463118956.topbusiness.io
         password: Hyaadodo@1010
         server-dir: /public_html/backend/
