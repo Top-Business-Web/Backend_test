@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: mohegy.com
-        username: u463118956.topbusiness.io
+        server: ftp.topbusiness.io
+        username: u463118956.backend
         password: Hyaadodo@1010
-        server-dir: /public_html/backend/folder/
+        server-dir: /home/u463118956/domains/topbusiness.io/public_html/backend
