@@ -17,4 +17,4 @@ jobs:
         server: mohegy.com
         username: u463118956.topbusiness.io
         password: Hyaadodo@1010
-        server-dir: /public_html/backend/folder
+        server-dir: /public_html/backend/folder/
