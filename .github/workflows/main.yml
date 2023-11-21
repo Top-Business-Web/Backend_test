@@ -17,4 +17,4 @@ jobs:
         server: ftp.topbusiness.io
         username: u463118956.backend
         password: Hyaadodo@1010
-        server-dir: /backend/
+        server-dir: /
