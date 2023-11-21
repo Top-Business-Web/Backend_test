@@ -17,4 +17,4 @@ jobs:
         server: 31.220.106.209
         username: u463118956.topbusiness.io
         password: Hyaadodo@1010
-        server-dir: /public_html/backend
+        server-dir: /public_html/backend/
